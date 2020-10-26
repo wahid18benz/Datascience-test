@@ -1,6 +1,7 @@
 # Datascience-test
 - Validation.csv file source : https://data.iledefrance-mobilites.fr/explore/dataset/validations-sur-le-reseau-ferre-nombre-de-validations-par-jour-1er-sem/table/
 - holidays.xlsx file source : https://calendrierfrance.fr/jours-feries-2019/
+- run ```pip install -r requirements.txt ``` before executing Test.ipynb
 
 ![graph](https://user-images.githubusercontent.com/40476342/97185756-bd1e0700-17a0-11eb-8421-f5610c67ab0a.PNG)
 
